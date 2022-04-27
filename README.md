@@ -1,0 +1,1 @@
+Enable Multi-Frame Rendering(MFR) by editing PiPL resources of an After Effects plugin(.aex).
